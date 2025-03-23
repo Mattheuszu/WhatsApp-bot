@@ -1,0 +1,62 @@
+{
+  "Fredrik Olofsman": {
+    "schedule": "Mon-Fri 09:00 - 18:00, Sat-Sun off",
+    "age": 34,
+    "education": "Master's in Computer Science",
+    "address": "Stockholm, Sweden",
+    "street": "Drottninggatan 12, Stockholm",
+    "phone": "+46 70 123 45 67",
+    "email": "fredrik.olo@ikea.com",
+    "whatsapp": "@FredrikOlofsman",
+    "experience": "10 years",
+    "marital_status": "Married"
+  },
+  "Elizabet Nordon": {
+    "schedule": "Mon-Wed 08:00 - 17:00, Thu-Sun off",
+    "age": 29,
+    "education": "Bachelor's in Business Administration",
+    "address": "Malmö, Sweden",
+    "street": "Södra Förstadsgatan 45, Malmö",
+    "phone": "+46 70 234 56 78",
+    "email": "elizabet.nordon@ikea.com",
+    "whatsapp": "@ElizabetNordon",
+    "experience": "5 years",
+    "marital_status": "Single"
+  },
+  "Anna Karlsson": {
+    "schedule": "Mon-Fri 10:00 - 19:00, Sat-Sun off",
+    "age": 26,
+    "education": "Vocational Education",
+    "address": "Gothenburg, Sweden",
+    "street": "Kungsportsavenyn 55, Gothenburg",
+    "phone": "+46 70 345 67 89",
+    "email": "anna.karlsson@ikea.com",
+    "whatsapp": "@AnnaKarlsson",
+    "experience": "3 years",
+    "marital_status": "Married"
+  },
+  "Johan Svensson": {
+    "schedule": "Mon-Fri 08:00 - 17:00, Sat-Sun off",
+    "age": 41,
+    "education": "PhD in Physics",
+    "address": "Uppsala, Sweden",
+    "street": "Dragarbrunnsgatan 23, Uppsala",
+    "phone": "+46 70 456 78 90",
+    "email": "johan.svensson@ikea.com",
+    "whatsapp": "@JohanSvensson",
+    "experience": "15 years",
+    "marital_status": "Single"
+  },
+  "Maria Lindberg": {
+    "schedule": "Mon-Fri 08:30 - 17:30, Sat-Sun off",
+    "age": 37,
+    "education": "Bachelor's in Design",
+    "address": "Helsingborg, Sweden",
+    "street": "Stora Nygatan 10, Helsingborg",
+    "phone": "+46 70 567 89 01",
+    "email": "maria.lindberg@ikea.com",
+    "whatsapp": "@MariaLindberg",
+    "experience": "8 years",
+    "marital_status": "Divorced"
+  }
+}
